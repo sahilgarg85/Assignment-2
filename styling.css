@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background: #dccde8;
+    background: #a3b9e9;
     font-family: 'Bebas Neue', cursive;
     font-size: 25px;
 }
@@ -25,7 +25,7 @@ li{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: #793957;
+    background: #194c7c;
 }
 
 .logo {
@@ -182,7 +182,7 @@ li{
 
 footer {
     padding: 5px;
-    background: #793957;;
+    background: #194c7c;;
     text-decoration: none;
     color: white;
     font-weight: 800;
